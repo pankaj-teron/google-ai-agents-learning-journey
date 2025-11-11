@@ -1,8 +1,8 @@
-# 🧠 Day 1 — Introduction to Agents & Agentic Architectures
+# 🧠 Day 1 - Introduction to Agents & Agentic Architectures
 
 ### 📘 Overview
 
-Day 1 of the **Google x Kaggle AI Agents Intensive** introduced the core concept of **AI Agents** — systems that can think, plan, act, and observe autonomously.
+Day 1 of the **Google x Kaggle AI Agents Intensive** introduced the core concept of **AI Agents** - systems that can think, plan, act, and observe autonomously.
 
 Agents are not just language models responding to prompts; they are **goal-oriented entities** that can use tools, interact with environments, and collaborate with other agents.
 
@@ -39,7 +39,7 @@ Agents are not just language models responding to prompts; they are **goal-orien
 
 - Agents are **autonomous problem-solvers**, not static LLMs.
 - They can chain multiple tools and other agents to achieve goals.
-- Developers act more like **directors** — guiding and debugging, not hardcoding logic.
+- Developers act more like **directors** - guiding and debugging, not hardcoding logic.
 
 ---
 
@@ -50,5 +50,3 @@ Agents are not just language models responding to prompts; they are **goal-orien
 - 💻 **Codelab:** _Kaggle Notebook - Day 1 (Gemini + ADK)_
 
 ---
-
-**Next Up → Day 2: Agent Tools & Interoperability**
